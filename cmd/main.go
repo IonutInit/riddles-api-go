@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/ionutinit/riddles-api/database"
+	"github.com/ionutinit/riddles-api-go/database"
 )
 
 func main() {

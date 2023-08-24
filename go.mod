@@ -1,4 +1,4 @@
-module github.com/ionutinit/riddles-api
+module github.com/ionutinit/riddles-api-go
 
 go 1.21.0
 

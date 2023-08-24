@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/ionutinit/riddles-api/models"
+	"github.com/ionutinit/riddles-api-go/models"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"
